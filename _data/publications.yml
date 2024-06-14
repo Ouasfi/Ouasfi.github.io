@@ -1,23 +1,16 @@
 - id: reconfusion
-  title: "ReconFusion: 3D Reconstruction with Diffusion Priors"
-  venue: arXiv, 2023
+  title: "Unsupervised Occupancy Learning from Sparse Point Cloud"
+  venue: CVPR, 2024
   description: "Using an multi-view image conditioned diffusion model to regularize a NeRF enabled few-view reconstruction."
   project_page: https://reconfusion.github.io
   arxiv: 2312.02981
   image: reconfusion_before.png
   image_mouseover: reconfusion_after.mp4
   authors:
-    - rundiwu
-    - bmild
-    - phenzler
-    - keunhong
-    - ruiqigao
-    - danielwatson
-    - pratuls
-    - dorverbin
-    - barron
-    - pooleb
-    - holynski
+    - amine
+    - adnane
+  awards:
+  - "Highlight"
 # - id: hypernerf
 #   title: "CamP: Camera Preconditioning for Neural Radiance Fields"
 #   venue: SIGGRAPH Asia, 2023

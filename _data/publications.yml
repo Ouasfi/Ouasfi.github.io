@@ -11,7 +11,8 @@
     - adnane
   awards:
   - "Highlight"
-  id: adv_icml
+  
+- id: adv_icml
   title: "Few-Shot Unsupervised Implicit Neural Shape Representation Learning with Spatial Adversaries"
   venue: ICML, 2024
   description: "Introducing a regularization term that leverages adversarial samples around the shape to improve SDF optimization from a sparse point cloud"
@@ -23,7 +24,7 @@
     - amine
     - adnane
 
-  id: mixer_3dv
+- id: mixer_3dv
   title: "Mixing-denoising generalizable occupancy networks"
   venue: 3DV, 2024
   description: "Making generalizable implicit representations robust to the input noise and sparsity by relaxing the inductive biais of convolutions with  MLP-based local encoding"
@@ -35,7 +36,7 @@
     - amine
     - adnane
 
-  id: kernel_neurips
+- id: kernel_neurips
   title: "Robustifying Generalizable Implicit Shape Networks with a Tunable Non-Parametric Model"
   venue: NeurIPS, 2024
   description: "Leveraging kernel methods for Fast test-time adaptation of pretrained networks with a shape specific trade-of between expressiveness and regularization"

@@ -11,11 +11,11 @@
     - adnane
   awards:
   - "Highlight"
-  
+
 - id: adv_icml
   title: "Few-Shot Unsupervised Implicit Neural Shape Representation Learning with Spatial Adversaries"
   venue: ICML, 2024
-  description: "Introducing a regularization term that leverages adversarial samples around the shape to improve SDF optimization from a sparse point cloud"
+  description: "Introducing a regularization term based adversarial samples around the shape to improve SDF optimization from a sparse point cloud"
   #project_page: https://reconfusion.github.io
   #arxiv: 2404.02759
   image: icml_adv.png
@@ -42,7 +42,7 @@
   description: "Leveraging kernel methods for Fast test-time adaptation of pretrained networks with a shape specific trade-of between expressiveness and regularization"
   #project_page: https://reconfusion.github.io
   arxiv: 2311.12967
-  image: 3dv_thumb.png
+  image: neurips_thumb.png
   #image_mouseover: reconfusion_after.mp4
   authors:
     - amine

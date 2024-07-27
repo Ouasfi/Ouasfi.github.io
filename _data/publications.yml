@@ -1,7 +1,20 @@
+- id: sparsecraft
+  title: "SparseCraft: Few-Shot Neural Reconstruction through Stereopsis Guided Geometric Linearization"
+  venue: ECCV, 2024
+  description: "Imporving Novel-View Synthesis and reconstruction from sparse views without data with local Geometric Linearization."
+  #project_page: https://reconfusion.github.io
+  arxiv: 2407.14257
+  image: TnT.png
+  #image_mouseover: reconfusion_after.mp4
+  authors:
+    - amine
+    - adnane
+  awards:
+  - "Highlight"
 - id: unsocc
   title: "Unsupervised Occupancy Learning from Sparse Point Cloud"
   venue: CVPR, 2024
-  description: "Minimal entropy fields regularization for occupancy learning from sparse point cloud without ground-truth supervision"
+  description: " Local linearization and Minimal entropy fields regularization for occupancy learning from sparse point cloud without ground-truth supervision."
   #project_page: https://reconfusion.github.io
   arxiv: 2404.02759
   image: 29699-thumb.png
@@ -15,7 +28,7 @@
 - id: adv_icml
   title: "Few-Shot Unsupervised Implicit Neural Shape Representation Learning with Spatial Adversaries"
   venue: ICML, 2024
-  description: "Adversarial regularization for  SDF optimization from a sparse point cloud"
+  description: "Adversarial regularization for  SDF optimization from sparse point cloud without ground-truth supervision."
   #project_page: https://reconfusion.github.io
   #arxiv: 2404.02759
   image: icml_adv.png
@@ -27,7 +40,7 @@
 - id: mixer_3dv
   title: "Mixing-denoising generalizable occupancy networks"
   venue: 3DV, 2024
-  description: "Making generalizable implicit representations robust to the input noise and sparsity by relaxing the inductive biais of convolutions with  MLP-based local encoding"
+  description: "Making generalizable implicit representations robust to the input noise and sparsity by relaxing the inductive biais of convolutions with  MLP-based local encoding."
   #project_page: https://reconfusion.github.io
   arxiv: 2311.12125
   image: 3dv_thumb.png
@@ -39,7 +52,7 @@
 - id: kernel_neurips
   title: "Robustifying Generalizable Implicit Shape Networks with a Tunable Non-Parametric Model"
   venue: NeurIPS, 2024
-  description: "Leveraging kernel methods for Fast test-time adaptation of pretrained networks with a shape specific trade-of between expressiveness and regularization"
+  description: "Leveraging kernel methods for Fast test-time adaptation of pretrained networks with a shape specific trade-of between expressiveness and regularization."
   #project_page: https://reconfusion.github.io
   arxiv: 2311.12967
   image: neurips_thumb.png

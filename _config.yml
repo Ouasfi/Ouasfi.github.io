@@ -23,7 +23,7 @@ name: Ouasfi Amine
 position: PhD Student 
 email: amine1ouasfi+website@hotmail.fr
 description: >-
-  I am a PhD Student at INRIA in France, working with Prof. Adnane Boukhayma and <a href="https://team.inria.fr/rainbow/team/eric-marchand/">Eric Marchand</a>.<br />. My research interests focus on 3D computer vision, generative models, and computer graphics. Previously, I  worked on improving generalizable implicit reconstuction models. I'm currently exploring implicit representation learning from sparse inputs (pointclouds, multi-view images).
+  I am a PhD Student at INRIA in France, working with Prof. Adnane Boukhayma and Prof. <a href="https://team.inria.fr/rainbow/team/eric-marchand/">Eric Marchand</a>.<br /> My research interests focus on 3D computer vision, generative models, and computer graphics. Previously, I  worked on improving generalizable implicit reconstuction models. I'm currently exploring implicit representation learning from sparse inputs (pointclouds, multi-view images).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ouasfi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: KeunhongP

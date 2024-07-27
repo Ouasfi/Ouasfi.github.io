@@ -3,7 +3,17 @@ amine:
   last_name: Ouasfi
   website: https://ouasfi.github.io/
   is_me: true
+
+amine*:
+  first_name: Amine
+  last_name: Ouasfi
+  website: https://ouasfi.github.io/
+  is_me: true
 adnane:
   first_name: Adnane
   last_name: Boukhayma
+  website: https://boukhayma.github.io/
+younes:
+  first_name: Mae
+  last_name: Younes
   website: https://boukhayma.github.io/

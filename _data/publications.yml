@@ -7,7 +7,8 @@
   image: TnT.png
   #image_mouseover: reconfusion_after.mp4
   authors:
-    - amine
+    - younes ^1
+    - amine  ^1
     - adnane
   awards:
   - "Highlight"

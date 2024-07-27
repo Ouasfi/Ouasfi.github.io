@@ -6,7 +6,7 @@ amine:
 
 amine*:
   first_name: Amine
-  last_name: Ouasfi
+  last_name: Ouasfi* 
   website: https://ouasfi.github.io/
   is_me: true
 adnane:
@@ -16,4 +16,9 @@ adnane:
 younes:
   first_name: Mae
   last_name: Younes
+  website: https://boukhayma.github.io/
+
+younes*:
+  first_name: Mae
+  last_name: Younes*
   website: https://boukhayma.github.io/

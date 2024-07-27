@@ -1,11 +1,15 @@
-- name: University of Washington 
+- name: INRIA, University of Rennes 
   description: >-
-    Ph. D in Computer Science, advised by <a href="https://smseitz.com">Steven M. Seitz</a> and
-    <a href="https://homes.cs.washington.edu/~ali/">Ali Farhadi</a>.<br />
-    Supported by Samsung Scholarship 2015-2020 ($50,000/year for 5 years)
-  dates: Fall 2015 - Spring 2022
+    Ph. D in 3D Computer Vision, advised by <a href="https://boukhayma.github.io/">Adnane Boukhayma</a> and
+    <a href="https://team.inria.fr/rainbow/team/eric-marchand/">Eric Marchand</a>.<br />
+  dates: Dec 2022 - Dec 2025
 
-- name: University of Illinois at Urbana-Champaign
+- name: IMT Atlantique 
   description: >-
-    B.S. in Computer Science, advised by <a href="https://dhoiem.cs.illinois.edu/">Derek Hoiem</a>.
-  dates: Fall 2009 - Spring 2013
+    Master Degree in Computational and Mathematical Engineering.
+  dates: Sep 2018 - Aug 2022
+
+- name: Lycée du Parc
+  description: >-
+     Preparatory  classes for French engineering schools.
+  dates: Sep 2017 - Aug 2018

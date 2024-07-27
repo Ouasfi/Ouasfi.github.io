@@ -2,7 +2,7 @@
   title: "SparseCraft: Few-Shot Neural Reconstruction through Stereopsis Guided Geometric Linearization"
   venue: ECCV, 2024
   description: "Imporving Novel-View Synthesis and reconstruction from sparse views without data with local Geometric Linearization."
-  #project_page: https://reconfusion.github.io
+  project_page: https://sparsecraft.github.io/
   arxiv: 2407.14257
   image: TnT.png
   #image_mouseover: reconfusion_after.mp4
@@ -10,8 +10,6 @@
     - younes*
     - amine*
     - adnane
-  awards:
-  - "Highlight"
 - id: unsocc
   title: "Unsupervised Occupancy Learning from Sparse Point Cloud"
   venue: CVPR, 2024

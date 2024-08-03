@@ -1,7 +1,7 @@
 - id: sparsecraft
   title: "SparseCraft: Few-Shot Neural Reconstruction through Stereopsis Guided Geometric Linearization"
   venue: ECCV, 2024
-  description: "Imporving Novel-View Synthesis and reconstruction from sparse views without data with local Geometric Linearization."
+  description: "Imporving Novel-View Synthesis and reconstruction from sparse views without data priors through local Geometric Linearization."
   project_page: https://sparsecraft.github.io/
   arxiv: 2407.14257
   image: TnT.png
@@ -55,6 +55,18 @@
   #project_page: https://reconfusion.github.io
   arxiv: 2311.12967
   image: neurips_thumb.png
+  #image_mouseover: reconfusion_after.mp4
+  authors:
+    - amine
+    - adnane
+
+- id: maml_eccv
+  title: "Few ‘Zero Level Set’-Shot Learning of Shape Signed Distance Functions in Feature Space"
+  venue: ECCV, 2022
+  description: "Conditioning implicit representations on sparse inputs through meta-leanring in feature space."
+  #project_page: https://reconfusion.github.io
+  arxiv: 2311.12967
+  image: fssdf.png
   #image_mouseover: reconfusion_after.mp4
   authors:
     - amine

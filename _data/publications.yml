@@ -1,3 +1,29 @@
+- id: sdro
+  title: "A SDF optimization from sparse point cloud without ground-truth supervision"
+  venue: CVPR, 2025
+  description: "A distributionally robust optimization (DRO) framework stable and efficient optimization of SDFs without ground truth supervision"
+  project_page: https://ouasfi.github.io/sdro/
+  arxiv: 2412.16361
+  image: vggsfm.png
+  #image_mouseover: reconfusion_after.mp4
+  authors:
+    - amine*
+    - sjena
+    - eric
+    - adnane
+- id: proker
+  title: "A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models"
+  venue: CVPR, 2025
+  description: "Imporving Novel-View Synthesis and reconstruction from sparse views without data priors through local Geometric Linearization."
+  project_page: https://ybendou.github.io/ProKeR/
+  arxiv: 2501.11175
+  image: proker.png
+  #image_mouseover: reconfusion_after.mp4
+  authors:
+    - yassir*
+    - amine*
+    - vincent
+    - adnane
 - id: sparsecraft
   title: "SparseCraft: Few-Shot Neural Reconstruction through Stereopsis Guided Geometric Linearization"
   venue: ECCV, 2024

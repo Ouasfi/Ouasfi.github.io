@@ -22,3 +22,19 @@ younes*:
   first_name: Mae
   last_name: Younes*
   website: https://boukhayma.github.io/
+yassir*:
+  first_name: Yassir
+  last_name: Bendou*
+  website: https://ybendou.github.io/
+eric:
+  first_name: Eric
+  last_name: Marchand
+  website: https://team.inria.fr/rainbow/team/eric-marchand/
+vincent:
+  first_name: Vincent
+  last_name: Gripon
+  #website: https://team.inria.fr/rainbow/team/eric-marchand/
+sjena:
+  first_name: Shubendou
+  last_name: Jena
+  #website: https://team.inria.fr/rainbow/team/eric-marchand/

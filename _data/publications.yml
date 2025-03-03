@@ -1,5 +1,5 @@
 - id: sdro
-  title: "A SDF optimization from sparse point cloud without ground-truth supervision"
+  title: "Toward Robust Neural Reconstruction from Sparse Point Sets"
   venue: CVPR, 2025
   description: "A distributionally robust optimization (DRO) framework stable and efficient optimization of SDFs without ground truth supervision"
   project_page: https://ouasfi.github.io/sdro/

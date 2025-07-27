@@ -37,7 +37,8 @@ vincent:
 sjena:
   first_name: Shubendou
   last_name: Jena
-sjena:
+  #website: https://team.inria.fr/rainbow/team/eric-marchand/
+sjena*:
   first_name: Shubendou
   last_name: Jena*
-  #website: https://team.inria.fr/rainbow/team/eric-marchand/
+ 

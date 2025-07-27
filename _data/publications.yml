@@ -1,3 +1,16 @@
+- id: sparfels
+  title: "Sparfels: Fast Reconstruction from Sparse Unposed Imagery"
+  venue: ICCV, 2025
+  description: "A Sparse view reconstruction with surface element splatting that runs within 3 minutes on a consumer-grade GPU"
+  project_page: https://shubhendu-jena.github.io/Sparfels-web/
+  arxiv: 2505.02178
+  image: sparfels.png
+  #image_mouseover: reconfusion_after.mp4
+  authors:
+    - sjena*
+    - amine*
+    - younes
+    - adnane
 - id: sdro
   title: "Toward Robust Neural Reconstruction from Sparse Point Sets"
   venue: CVPR, 2025

@@ -11,6 +11,8 @@
     - amine*
     - younes
     - adnane
+  awards:
+  - "Highlight"
 - id: sdro
   title: "Toward Robust Neural Reconstruction from Sparse Point Sets"
   venue: CVPR, 2025

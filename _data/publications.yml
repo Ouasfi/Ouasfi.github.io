@@ -1,7 +1,7 @@
 - id: particam
   title: "PartiCam: Camera Controlled Video Generation with Reward Guidance"
   venue: Arxiv, 2026
-  description: "a training-free Particle filtering rooted method to generate videos that follow a precisely specified camera trajectory"
+  description: "A training-free Particle filtering rooted method to generate videos that follow a precisely specified camera trajectory"
   project_page: https://shubhendu-jena.github.io/Sparfels-web/
   arxiv: 2505.02178
   image: particam.png

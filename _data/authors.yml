@@ -41,4 +41,20 @@ sjena:
 sjena*:
   first_name: Shubendou
   last_name: Jena*
- 
+
+runjia:
+  first_name: Runjia 
+  last_name: Li
+  website: https://runjiali-rl.github.io/
+
+
+junlin:
+  first_name: Junlin 
+  last_name: Han
+  website: https://junlinhan.github.io/
+
+philip:
+  first_name: Philip H.S.
+  last_name: Torr
+  website: https://www.robots.ox.ac.uk/~phst/
+

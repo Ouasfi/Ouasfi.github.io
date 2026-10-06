@@ -2,8 +2,8 @@
   title: "PartiCam: Camera Controlled Video Generation with Reward Guidance"
   venue: Arxiv, 2026
   description: "A training-free Particle filtering rooted method to generate videos that follow a precisely specified camera trajectory"
-  project_page: https://shubhendu-jena.github.io/Sparfels-web/
-  arxiv: 2505.02178
+  project_page: https://arxiv.org/abs/2609.39504
+  arxiv: 2609.39504
   image: particam.png
   #image_mouseover: reconfusion_after.mp4
   authors:
